@@ -1,0 +1,182 @@
+/* BELOW THIS IS CLASS EDITS*/
+
+.header {
+  text-align: center;
+  background-color: #ffa5a5;
+  padding-bottom: 50px;
+  padding-top: 50px;
+  position: relative;
+}
+
+.aboutmeskills {
+  margin-top: 10px;
+  height: 300px;
+  position: relative;
+}
+
+.skills {
+  background-color: #5c969e;
+  height: 300px;
+  width: 49.5%;
+  text-align: center;
+  position: absolute;
+  right: 0;
+
+}
+
+.aboutme {
+  background-color: #5c969e;
+  height: 300px;
+  width: 49.5%;
+  text-align: center;
+  position: absolute;
+
+}
+
+.education {
+  background-color: #3d7ea6;
+  position: relative;
+  width: 100%;
+  height: 370px;
+  text-align: center;
+  margin-top: 10px;
+}
+
+.volexhibitgoals {
+  height: 925px;
+  position: relative;
+  margin-top: 10px;
+}
+
+.volunteer {
+  background-color: #5c969e;
+  width: 49.5%;
+  height: 925px;
+  position: absolute;
+  text-align: center;
+}
+
+.exhibit {
+  background-color: #5c969e;
+  width: 49.5%;
+  text-align: center;
+  position: absolute;
+  right: 0;
+  display: inline-block;
+}
+
+.goals {
+  background-color: #5c969e;
+  width: 49.5%;
+  text-align: center;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  display: inline-block;
+}
+
+.bio {
+  text-align: center;
+}
+
+.experience {
+  background-color: #3d7ea6;
+  width: 100%;
+  text-align: center;
+  position: relative;
+  display: inline-block;
+  margin-top: 10px;
+
+}
+
+
+.freecontactport {
+  position: relative;
+  margin-top: 10px;
+  width: 100%;
+  height: 900px;
+
+}
+
+.freelance {
+  background-color: #5c969e;
+  text-align: center;
+  width: 49.5%;
+
+  position: absolute;
+
+}
+
+.contact {
+  background-color: #5c969e;
+  width: 49.5%;
+  position: absolute;
+  right: 0;
+  bottom: 110px;
+  text-align: center;
+
+}
+
+.portfolio {
+  background-color: #5c969e;
+  width: 49.5%;
+  text-align: center;
+  position: absolute;
+  right: 0;
+  display: inline-block;
+}
+
+.profilepic {
+  border-radius: 100%;
+  height: 300px;
+}
+
+.boundless {
+  height: 300px;
+}
+
+.ps {
+  font-size: 14px;
+}
+
+/* BELOW THIS IS TAG EDITS*/
+
+body {
+  background-color: #fcdada;
+}
+
+h1 {
+  font-family: 'Staatliches', cursive;
+  font-size: 72px;
+  margin: 0;
+  text-align: center;
+}
+h2 {
+  font-family: 'Montserrat', sans-serif;
+}
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+p {
+ padding: 0 35px 35px 35px;
+}
+
+hr {
+  width: 500px;
+}
+
+h3 {
+  margin-right: 35px;
+}
+
+
+
+/* PSEUDO CLASS EDITS */
+
+div:hover:not(.parent) {
+  background-color: #ffa5a5;
+}
+
+h1:hover {
+  color: white;
+}
